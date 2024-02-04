@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="autowiring_parameter" />
+        <module name="spring_core_assignment" />
+        <module name="autowiring_annotation_constructor" />
+        <module name="example-2" />
+        <module name="example" />
+        <module name="regiterBean_method" />
+        <module name="autowiring_annotation" />
+        <module name="primary_annotation" />
+        <module name="predestroy_annotation" />
+        <module name="example-3" />
+        <module name="component_annotation" />
+        <module name="autowiring_annotation_multiple_bean" />
+        <module name="postconstruct_annotation" />
+        <module name="autowiring_method" />
+        <module name="autowiring_annotation_setter_method" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../example-2/pom.xml" />
+        <option value="$PROJECT_DIR$/../example-3/pom.xml" />
+        <option value="$PROJECT_DIR$/../primary_annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/../component_annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/../postconstruct_annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/../predestroy_annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/../regiterBean_method/pom.xml" />
+        <option value="$PROJECT_DIR$/../autowiring_method/pom.xml" />
+        <option value="$PROJECT_DIR$/../autowiring_parameter/pom.xml" />
+        <option value="$PROJECT_DIR$/../autowiring_annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/../autowiring_annotation_class_field/pom.xml" />
+        <option value="$PROJECT_DIR$/../autowiring_annotation_constructor/pom.xml" />
+        <option value="$PROJECT_DIR$/../autowiring_annotation_setter_method/pom.xml" />
+        <option value="$PROJECT_DIR$/../autowiring_annotation_multiple_bean/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_core_assignment/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
